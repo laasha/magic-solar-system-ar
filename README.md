@@ -1,20 +1,42 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Magic Solar System Ar
 
-# Run and deploy your AI Studio app
+> **Digital Project in APP Factory Ecosystem (`03_spatial-audio`)**
 
-This contains everything you need to run your app locally.
+ეს არის magic-solar-system-ar პროექტი, რომელიც შედის APP Factory-ს ციფრულ ეკოსისტემაში.
 
-View your app in AI Studio: https://ai.studio/apps/394119e6-e8e2-4e96-9551-a569e41bc056
+---
 
-## Run Locally
+## 🛠️ ტექნოლოგიური სტეკი (Tech Stack)
 
-**Prerequisites:**  Node.js
+`React` `JavaScript/TypeScript` `Vercel`
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🌐 Live Demo & Links
+
+- **Live Web App**: [https://magic-solar-system-ar.vercel.app](https://magic-solar-system-ar.vercel.app)
+- **Master Ecosystem Dashboard**: [APP Factory Portfolio](https://app-factory-portfolio.vercel.app)
+- **Local Path**: `D:\Projects\03_spatial-audio\magic-solar-system-ar`
+
+---
+
+## ⚡ გაშვების ინსტრუქცია (Run Locally)
+
+1. დააინსტალირეთ დამოკიდებულებები:
+   ```bash
+   npm install
+   ```
+
+2. გააშვით ლოკალური დეველოპმენტ სერვერი:
+   ```bash
+   npm run dev
+   ```
+
+3. პროექტის ბილდის შექმნა (Production Build):
+   ```bash
+   npm run build
+   ```
+
+---
+
+*Developed with ❤️ as part of APP Factory Ecosystem.*
