@@ -1,0 +1,8 @@
+{
+  "name": "ჯადოსნური მზის სისტემა (AR)",
+  "description": "აღმოაჩინე პლანეტები AR-ში! დააწკაპუნე პლანეტაზე და AI მოგიყვება საინტერესო ფაქტებს ბავშვებისთვის.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
